@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>地瓜乳酪塔 </title>
+</head>
+<body  background="0002.jpg" text="#007799" link="#9900FF" vlink="#B94FFF" >
+<img src="images/1.jpg"> <p>
+
+
+份量6 人份  <p>
+時間60 分鐘  <br>
+
+食材:塔皮 未烤塔皮(7吋) <p>
+地瓜乳酪內餡 (地瓜泥)150g 奶油乳酪150g 紅糖75g <p>
+雞蛋2個 塩(1/4茶匙) 香草精1茶匙 低筋麵粉1 湯匙 肉桂粉1/2茶匙 <br>
+做法: <p>
+(1)烤箱預熱至180°C / 350°F。 <p>
+未烤塔皮 7吋 <p>
+<img src="images/2.jpg"> <p>
+(2)在一個大碗裡,用手動攪拌器高速攪拌奶油奶酪,地瓜泥和紅糖直到混合均勻並光滑 <p>
+<img src="images/3.jpg"> <p>
+(3)加入雞蛋,用手動攪拌器中速攪拌 <p>
+然後加入塩和香草精 繼續攪拌 <p>
+<img src="images/4.jpg"> <p>
+(4)加入肉桂粉和麵粉, 用攪拌器低速攪拌直至餡料混合均匀 <p>
+<img src="images/5.jpg"> <p>
+(5)將餡料倒入塔皮中 <p>
+180°C / 350°F 烘烤30-35分鐘或者直到中心凝固 <p>
+<img src="images/6.jpg"> <p>
+(6)放在架子上冷卻 <p>
+然後放在冰箱冷藏至少3小時或者過夜既可食用 <p>
+<img src="images/7.jpg"> <br>
+
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/tbgtRXKwsh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<a href="002.html">連到首頁</a>
+<a href="003.html">連到第3頁</a>
+<a href="004.html">連到第4頁</a>
+<a href="005.html">連到第5頁</a>
+
+</body>
+</html>
