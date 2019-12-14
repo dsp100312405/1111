@@ -2,7 +2,7 @@
 <head>
 <title>地瓜乳酪塔 </title>
 </head>
-<body  background="0002.png" text="#007799" link="#9900FF" vlink="#B94FFF" >
+<body  background="0002.jpg" text="#007799" link="#9900FF" vlink="#B94FFF" >
 <img src="images/1.jpg"> <p>
 
 
